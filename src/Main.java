@@ -11,7 +11,7 @@ public class Main {
         int n_escolhido = sc.nextInt();
         while (true){
             if (n_escolhido<numb){
-                System.out.println("Você errou! O numero é maior, tente novamente. ");
+                System.out.println("Você errou! O numero é maior, tente novamente... ");
                 System.out.println("Digite um número: ");
                 n_escolhido= sc.nextInt();
             } else if (n_escolhido>numb) {
