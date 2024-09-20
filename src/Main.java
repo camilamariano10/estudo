@@ -15,7 +15,7 @@ public class Main {
                 System.out.println("Digite um número: ");
                 n_escolhido= sc.nextInt();
             } else if (n_escolhido>numb) {
-                System.out.println("Você errou! O numero é menor, tente novamente. ");
+                System.out.println("Você errou! O numero é menor, tente novamente.... ");
                 System.out.println("Digite um número: ");
                 n_escolhido= sc.nextInt();
             } else {
